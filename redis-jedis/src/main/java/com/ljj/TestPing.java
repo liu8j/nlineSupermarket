@@ -10,7 +10,7 @@ public class TestPing {
         System.out.println("连接redis成功");
         System.out.println("连接redis成功");
         System.out.println("连接redis成功");
-        System.out.println("连接redis成功");
+        System.out.println("连接redis非常成功");
         System.out.println("连接redis成功");
     }
 }
