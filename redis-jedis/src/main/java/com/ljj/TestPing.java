@@ -7,5 +7,6 @@ public class TestPing {
         Jedis jedis = new Jedis("47.92.7.163",
                 6379);
         System.out.println(jedis.ping());
+        System.out.println("连接redis成功");
     }
 }
