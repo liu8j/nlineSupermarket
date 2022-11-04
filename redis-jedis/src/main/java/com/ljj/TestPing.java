@@ -13,5 +13,6 @@ public class TestPing {
         System.out.println("连接redis非常成功");
         System.out.println("连接redis不成功");
         System.out.println("心态炸了");
+        System.out.println("人生无望了");
     }
 }
