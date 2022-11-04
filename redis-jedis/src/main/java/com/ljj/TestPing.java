@@ -8,5 +8,7 @@ public class TestPing {
                 6379);
         System.out.println(jedis.ping());
         System.out.println("连接redis成功");
+        System.out.println("连接redis成功");
+        System.out.println("连接redis成功");
     }
 }
